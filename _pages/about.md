@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. Candidate at Tsinghua University, advised by Prof. <a href='https://www.cs.tsinghua.edu.cn/info/1116/3534.htm'>Yuanchun Shi</a> and Prof. <a href='https://www.cs.tsinghua.edu.cn/info/1116/5088.htm'>Junliang Xing</a>. I earned my B.E. from Tsinghua University in 2022.
+I am a fourth-year Ph.D. Candidate at the Department of Computer Science and Technology, Tsinghua University. I am a member of the [Pervasive Human-Computer Interaction (PI) Lab](https://pi.cs.tsinghua.edu.cn/), where I am advised by Prof. <a href='https://www.cs.tsinghua.edu.cn/csen/info/1306/4332.htm'>Yuanchun Shi</a> and Prof. <a href='https://www.cs.tsinghua.edu.cn/csen/info/1306/4423.htm'>Junliang Xing</a>. I earned my B.Eng. from Tsinghua University in 2022.
 
 My research interests include LLM/VLM based AI Agents, reinforcement learning, and human-computer interaction. My research has been published in leading international AI venues, including NeurIPS, CVPR, ICCV, and TMLR. Currently, I focus on developing autonomous AI agents capable of solving complex multi-turn tasks via hybrid knowledge-data mechanisms, effectively leveraging prior knowledge from foundation models alongside environmental feedback.
 
@@ -25,7 +25,7 @@ My research interests include LLM/VLM based AI Agents, reinforcement learning, a
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉 GTR-Turbo was accepted by CVPR 2026. 
+- *2026.02*: &nbsp;🎉 GTR-Turbo was accepted by CVPR 2026. 
 - *2025.12*: We proposed <a href='https://arxiv.org/abs/2512.13043'>GTR-Turbo</a>, a significant upgrade to the GTR framework that eliminates reliance on costly external teacher models and accelerates the training process.
 - *2025.06*: &nbsp;🎉 GTR was accepted by ICCV 2025.
 - *2025.03*: We addressed a critical challenge in RL-based VLM agent training by proposing <a href='https://arxiv.org/abs/2503.08525'>Guided Thought Reinforcement (GTR)</a>, a novel approach that synthesizes the strengths of RL and IL.
@@ -80,7 +80,7 @@ Transactions on Machine Learning Research (TMLR), 2025
 - <span style="color: #000080; font-weight: bold;">Lightwrite: Teach handwriting to the visually impaired with a smartphone</span>. Zihan Wu, Chun Yu, Xuhai Xu, **Tong Wei**, Tianyuan Zou, Ruolin Wang, Yuanchun Shi. The ACM CHI Conference on Human Factors in Computing Systems (CHI), 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3411764.3445322)
 
 # 💻 Internship
-- *2024.06 - 2026.02*: Research intern @ Tencent AI Lab. Leader: Dr. <a href='https://scholar.google.com/citations?user=jz5XKuQAAAAJ'>Deheng Ye</a>. 
+- *2024.06 - 2026.02*: Research intern @ Tencent AI Lab. Team leader: <a href='https://scholar.google.com/citations?user=jz5XKuQAAAAJ'>Dr. Deheng Ye</a>. 
 
 # 🎖 Honors and Awards
 - *2025, 2023*: Overall Excellence Scholarship, Tsinghua University. 
@@ -91,5 +91,5 @@ Transactions on Machine Learning Research (TMLR), 2025
 
 # 🔖 Other Information
 - I served as a Teaching Assistant for several courses at Tsinghua: Fundamentals of Programming (Undergraduate), Professional Practice (Undergraduate), Computer Vision (Graduate).
-- I am also an Undergraduate Student Counselor in the Department of Computer Science and Technology at Tsinghua University.
+- I am also an Undergraduate Student Counselor of Tsinghua University, managing student affairs and providing career guidance for undergraduates of the CS Department.
 - I enjoy a variety of sports, such as tennis, basketball, ultimate frisbee, skiing, hiking, etc.
