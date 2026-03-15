@@ -17,42 +17,79 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a fourth-year Ph.D. Candidate at Tsinghua University, advised by Prof. <a href='https://www.cs.tsinghua.edu.cn/info/1116/3534.htm'>Yuanchun Shi</a> and Prof. <a href='https://www.cs.tsinghua.edu.cn/info/1116/5088.htm'>Junliang Xing</a>. I earned my B.E. from Tsinghua University in 2022.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include LLM/VLM based AI Agents, reinforcement learning, and human-computer interaction. My research has been published in leading international AI venues, including NeurIPS, CVPR, ICCV, and TMLR. Currently, I focus on developing autonomous AI agents capable of solving complex multi-turn tasks via hybrid knowledge-data mechanisms, effectively leveraging prior knowledge from foundation models alongside environmental feedback.
+
+<!-- Welcome to see my CV in English or 中文! -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;🎉 GTR-Turbo was accepted by CVPR 2026. 
+- *2025.12*: We proposed <a href='https://arxiv.org/abs/2512.13043'>GTR-Turbo</a>, a significant upgrade to the GTR framework that eliminates reliance on costly external teacher models and accelerates the training process.
+- *2025.06*: &nbsp;🎉 GTR was accepted by ICCV 2025.
+- *2025.03*: We addressed a critical challenge in RL-based VLM agent training by proposing <a href='https://arxiv.org/abs/2503.08525'>Guided Thought Reinforcement (GTR)</a>, a novel approach that synthesizes the strengths of RL and IL.
+
+# 📖 Education
+- *2022.08 - now*: Ph.D. Student, Department of Computer Science and Technology, Tsinghua University. 
+- *2018.08 - 2022.07*: B.Eng., Department of Computer Science and Technology, Tsinghua University. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GTR-Turbo.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<span style="font-size: 120%; color: #000080; font-weight: bold;">GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training</span>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tong Wei**, Yijun Yang, Changhao Zhang, Junliang Xing, Yuanchun Shi, Zongqing Lu, Deheng Ye
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+[[Paper]](https://arxiv.org/abs/2512.13043), [[Code]](https://github.com/weit123/GTR-Turbo) 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GTR.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 120%; color: #000080; font-weight: bold;">GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training</span>
+
+**Tong Wei**, Yijun Yang, Junliang Xing, Yuanchun Shi, Zongqing Lu, Deheng Ye
+
+International Conference on Computer Vision (ICCV), 2025
+
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wei_GTR_Guided_Thought_Reinforcement_Prevents_Thought_Collapse_in_RL-based_VLM_ICCV_2025_paper.pdf), [[Code]](https://github.com/weit123/GTR) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SDSAC.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 120%; color: #000080; font-weight: bold;">Revisiting Discrete Soft Actor-Critic</span>
+
+Haibin Zhou, **Tong Wei**, Zichuan Lin, Junyou Li, Junliang Xing, Yuanchun Shi, Li Shen, Chao Yu, Deheng Ye
+
+Transactions on Machine Learning Research (TMLR), 2025
+
+[[Paper]](https://openreview.net/pdf?id=EUF2R6VBeU), [[Code]](https://github.com/coldsummerday/SD-SAC) 
+</div>
+</div>
+
+- <span style="color: #000080; font-weight: bold;">Leveraging Privileged Information for Partially Observable Reinforcement Learning</span>. Jinqiu Li, Enmin Zhao, **Tong Wei**, Junliang Xing, Shiming Xiang. IEEE Transactions on Games (TG), 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10887124), [[Code]](https://github.com/lijinqiu2021/acc)
+- <span style="color: #000080; font-weight: bold;">Dual Critic Reinforcement Learning under Partial Observability</span>. Jinqiu Li, Enmin Zhao, **Tong Wei**, Junliang Xing, Shiming Xiang. Advances in Neural Information Processing Systems (NeurIPS), 2024. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/d399b67fa017f0f7670102c88507720c-Paper-Conference.pdf)
+- <span style="color: #000080; font-weight: bold;">Lightwrite: Teach handwriting to the visually impaired with a smartphone</span>. Zihan Wu, Chun Yu, Xuhai Xu, **Tong Wei**, Tianyuan Zou, Ruolin Wang, Yuanchun Shi. The ACM CHI Conference on Human Factors in Computing Systems (CHI), 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3411764.3445322)
+
+# 💻 Internship
+- *2024.06 - 2026.02*: Research intern @ Tencent AI Lab. Leader: Dr. <a href='https://scholar.google.com/citations?user=jz5XKuQAAAAJ'>Deheng Ye</a>. 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025, 2023*: Overall Excellence Scholarship, Tsinghua University. 
+- *2024*: Tencent Rhino-Bird Elite Talent Program. 
+- *2022*: Champion of the 2022 World Intelligent Aerial Gaming Competition.
+- *2021*: First Prize in 39th Challenge Cup, Tsinghua University.
+- *2020*: Grand Prize in 38th Challenge Cup, Tsinghua University.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🔖 Other Information
+- I served as a Teaching Assistant for several courses at Tsinghua: Fundamentals of Programming (Undergraduate), Professional Practice (Undergraduate), Computer Vision (Graduate).
+- I am also an Undergraduate Student Counselor in the Department of Computer Science and Technology at Tsinghua University.
+- I enjoy a variety of sports, such as tennis, basketball, ultimate frisbee, skiing, hiking, etc.
