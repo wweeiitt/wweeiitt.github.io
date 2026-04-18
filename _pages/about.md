@@ -31,7 +31,7 @@ My research interests include LLM/VLM based AI Agents, Reinforcement Learning, a
 - *2025.03*: We addressed a critical challenge in RL-based VLM agent training by proposing <a href='https://arxiv.org/abs/2503.08525'>Guided Thought Reinforcement (GTR)</a>, a novel approach that synthesizes the strengths of RL and IL.
 
 # 📖 Education
-- *2022.08 - now*: Ph.D. Student, Department of Computer Science and Technology, Tsinghua University. 
+- *2022.08 - Now*: Ph.D. Student, Department of Computer Science and Technology, Tsinghua University. 
 - *2018.08 - 2022.07*: B.Eng., Department of Computer Science and Technology, Tsinghua University. 
 
 # 📝 Publications 
@@ -80,10 +80,11 @@ Transactions on Machine Learning Research (TMLR), 2025
 - <span style="color: #000080; font-weight: bold;">Lightwrite: Teach handwriting to the visually impaired with a smartphone</span>. Zihan Wu, Chun Yu, Xuhai Xu, **Tong Wei**, Tianyuan Zou, Ruolin Wang, Yuanchun Shi. The ACM CHI Conference on Human Factors in Computing Systems (CHI), 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3411764.3445322)
 
 # 💻 Internship
-- *2024.06 - 2026.02*: Research intern @ Tencent AI Lab. Advisor: <a href='https://scholar.google.com/citations?user=jz5XKuQAAAAJ'>Dr. Deheng Ye</a> & <a href='https://stevenyangyj.github.io/'>Dr. Yijun Yang</a>. 
+- *2026.04 - Now*: @ Zhipu AI. Leader: <a href='https://davidlvxin.github.io/'>Dr. Xin Lv</a>
+- *2024.06 - 2026.02*: @ Tencent AI Lab. Leader: <a href='https://scholar.google.com/citations?user=jz5XKuQAAAAJ'>Dr. Deheng Ye</a>. 
 
 # 🎖 Honors and Awards
-- *2025, 2023*: Overall Excellence Scholarship, Tsinghua University. 
+- *2025, 2023*: Comprehensive Excellence Scholarship, Tsinghua University. 
 - *2024*: Tencent Rhino-Bird Elite Talent Program. 
 - *2022*: Champion of the 2022 World Intelligent Aerial Gaming Competition.
 - *2021*: First Prize in 39th Challenge Cup, Tsinghua University.
