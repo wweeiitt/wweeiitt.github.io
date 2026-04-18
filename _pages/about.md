@@ -81,7 +81,7 @@ Transactions on Machine Learning Research (TMLR), 2025
 
 # 💻 Internship
 - *2026.04 - Now*: @ Zhipu AI. Leader: <a href='https://davidlvxin.github.io/'>Dr. Xin Lv</a>
-- *2024.06 - 2026.02*: @ Tencent AI Lab. Leader: <a href='https://scholar.google.com/citations?user=jz5XKuQAAAAJ'>Dr. Deheng Ye</a>. 
+- *2024.06 - 2026.02*: @ Tencent AI Lab. Leader: <a href='https://scholar.google.com/citations?user=jz5XKuQAAAAJ'>Dr. Deheng Ye</a> & <a href='https://stevenyangyj.github.io/'>Dr. Yijun Yang</a>.. 
 
 # 🎖 Honors and Awards
 - *2025, 2023*: Comprehensive Excellence Scholarship, Tsinghua University. 
