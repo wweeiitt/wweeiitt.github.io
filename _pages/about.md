@@ -80,8 +80,9 @@ Transactions on Machine Learning Research (TMLR), 2025
 - <span style="color: #000080; font-weight: bold;">Lightwrite: Teach handwriting to the visually impaired with a smartphone</span>. Zihan Wu, Chun Yu, Xuhai Xu, **Tong Wei**, Tianyuan Zou, Ruolin Wang, Yuanchun Shi. The ACM CHI Conference on Human Factors in Computing Systems (CHI), 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3411764.3445322)
 
 # 💻 Internship
+- *2026.06 - Now*: @ Tencent. WeChat agent team.
 - *2026.04 - 2026.06*: @ Zhipu AI. GLM reasoning & post-training team.
-- *2024.06 - 2026.02*: @ Tencent. AI Lab, TEG. 
+- *2024.06 - 2026.02*: @ Tencent. AI Lab. 
 
 # 🎖 Honors and Awards
 - *2025, 2023*: Comprehensive Excellence Scholarship, Tsinghua University. 
