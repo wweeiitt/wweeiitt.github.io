@@ -23,6 +23,10 @@ My research interests include LLM/VLM based AI Agents, Reinforcement Learning, a
 
 <!-- Welcome to see my CV in English or 中文! -->
 
+<div style="padding: 14px 20px; background-color: #e8f0fc; border-left: 6px solid #1e3a8a; border-radius: 6px; margin: 20px 0; font-size: 110%;">
+💡 <strong>I'm actively seeking job opportunities related to <span style="color: #1e3a8a;">AI Agents, LLM Post-training, and AI-Native Applications</span>!</strong> Open to research and engineering roles. Feel free to reach out!
+</div>
+
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉 GTR-Turbo was accepted by CVPR 2026. 
