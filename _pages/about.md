@@ -28,12 +28,6 @@ My research interests include LLM/VLM based AI Agents, Reinforcement Learning, a
 </div>
 
 
-# 🔥 News
-- *2026.02*: &nbsp;🎉 GTR-Turbo was accepted by CVPR 2026. 
-- *2025.12*: We proposed <a href='https://arxiv.org/abs/2512.13043'>GTR-Turbo</a>, a significant upgrade to the GTR framework that eliminates reliance on costly external teacher models and accelerates the training process.
-- *2025.06*: &nbsp;🎉 GTR was accepted by ICCV 2025.
-- *2025.03*: We addressed a critical challenge in RL-based VLM agent training by proposing <a href='https://arxiv.org/abs/2503.08525'>Guided Thought Reinforcement (GTR)</a>, a novel approach that synthesizes the strengths of RL and IL.
-
 # 📖 Education
 - *2022.08 - Now*: Ph.D. Student, Department of Computer Science and Technology, Tsinghua University. 
 - *2018.08 - 2022.07*: B.Eng., Department of Computer Science and Technology, Tsinghua University. 
@@ -84,7 +78,7 @@ Transactions on Machine Learning Research (TMLR), 2025
 - <span style="color: #000080; font-weight: bold;">Lightwrite: Teach handwriting to the visually impaired with a smartphone</span>. Zihan Wu, Chun Yu, Xuhai Xu, **Tong Wei**, Tianyuan Zou, Ruolin Wang, Yuanchun Shi. The ACM CHI Conference on Human Factors in Computing Systems (CHI), 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3411764.3445322)
 
 # 💻 Internship
-- *2026.06 - Now*: @ Tencent. WeChat agent team.
+- *2026.06 - Now*: @ Tencent. WeChat agent (Xiaowei) team.
 - *2026.04 - 2026.06*: @ Zhipu AI. GLM reasoning & post-training team.
 - *2024.06 - 2026.02*: @ Tencent. AI Lab. 
 
@@ -97,5 +91,5 @@ Transactions on Machine Learning Research (TMLR), 2025
 
 # 🔖 Other Information
 - I served as a Teaching Assistant for several courses at Tsinghua: Fundamentals of Programming (Undergraduate), Professional Practice (Undergraduate), Computer Vision (Graduate).
-- I am also an Undergraduate Student Counselor of Tsinghua University, managing student affairs and providing career guidance for undergraduates of the CS Department.
+- I was an Undergraduate Student Counselor at Tsinghua University for four years (*2022 - 2026*), managing student affairs and providing career guidance for undergraduates of the CS Department.
 - I enjoy a variety of sports, such as tennis, basketball, ultimate frisbee, skiing, hiking, etc.
