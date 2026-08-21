@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. Candidate at the Department of Computer Science and Technology, Tsinghua University. I am a member of the [Pervasive Human-Computer Interaction (PI) Lab](https://pi.cs.tsinghua.edu.cn/), where I am advised by Prof. <a href='https://www.cs.tsinghua.edu.cn/csen/info/1306/4332.htm'>Yuanchun Shi</a> and Prof. <a href='https://www.cs.tsinghua.edu.cn/csen/info/1306/4423.htm'>Junliang Xing</a>. I earned my B.Eng. from Tsinghua University in 2022.
+I am a fifth-year Ph.D. Candidate at the Department of Computer Science and Technology, Tsinghua University, expecting to graduate in 2027. I am a member of the [Pervasive Human-Computer Interaction (PI) Lab](https://pi.cs.tsinghua.edu.cn/), where I am advised by Prof. <a href='https://www.cs.tsinghua.edu.cn/csen/info/1306/4332.htm'>Yuanchun Shi</a> and Prof. <a href='https://www.cs.tsinghua.edu.cn/csen/info/1306/4423.htm'>Junliang Xing</a>. I earned my B.Eng. from Tsinghua University in 2022.
 
 My research interests include LLM/VLM based AI Agents, Reinforcement Learning, and Human-Computer Interaction. My research has been published in leading international AI venues, including NeurIPS, CVPR, ICCV, and TMLR. Currently, I focus on developing autonomous AI agents capable of solving complex multi-turn tasks via hybrid knowledge-data mechanisms, effectively leveraging prior knowledge from foundation models alongside environmental feedback.
 
